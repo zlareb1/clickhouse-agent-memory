@@ -8,6 +8,8 @@ Three runnable demos ship in the box, SRE observability, telco NetOps, and secur
 
 > **Memory vs context.** Memory is what's stored. Context is what reaches the LLM. This project is the memory substrate that makes good context cheap.
 
+The [Loom SQL lesson exercise](https://loom.clickhouse.com/docs/use-cases/self-hosted-clickhouse#reuse-sql-lessons-across-agent-sessions) shows how to share a metric rule across agent sessions and check its saved SQL predicate against the live schema after a column rename.
+
 ---
 
 ## Table of contents
